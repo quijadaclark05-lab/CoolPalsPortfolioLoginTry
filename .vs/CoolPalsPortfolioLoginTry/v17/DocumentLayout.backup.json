@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\CoolPalsDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoolPalsDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\WelcomeForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,40 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\WelcomeForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SelectProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\SelectProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SelectProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\SelectProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\Portfolio1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\Portfolio1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\Portfolio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\Portfolio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\CoolPalsDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoolPalsDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +58,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WelcomeForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\WelcomeForm.Designer.cs",
-              "RelativeDocumentMoniker": "Forms\\WelcomeForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\WelcomeForm.Designer.cs",
-              "RelativeToolTip": "Forms\\WelcomeForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T13:14:59.433Z",
+              "DocumentIndex": 0,
+              "Title": "CoolPalsDB.sql ",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\CoolPalsDB.sql",
+              "RelativeDocumentMoniker": "CoolPalsDB.sql",
+              "ToolTip": "CoolPalsDB.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-08T15:15:17.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
-              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "Title": "SelectProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SelectProfile.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\SelectProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SelectProfile.Designer.cs",
+              "RelativeToolTip": "Forms\\SelectProfile.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T13:14:55.723Z",
+              "WhenOpened": "2025-12-08T15:15:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SignupForm.cs",
+              "RelativeToolTip": "Forms\\SignupForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:15:12.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SelectProfile.cs",
+              "RelativeDocumentMoniker": "Forms\\SelectProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\SelectProfile.cs",
+              "RelativeToolTip": "Forms\\SelectProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:15:11.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Portfolio1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\Portfolio1.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Portfolio1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\Portfolio1.Designer.cs",
+              "RelativeToolTip": "Forms\\Portfolio1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:15:10.471Z",
               "EditorCaption": ""
             },
             {
@@ -69,7 +138,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\WelcomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "Forms\\WelcomeForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:14:59.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Portfolio1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\Portfolio1.cs",
+              "RelativeDocumentMoniker": "Forms\\Portfolio1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\Portfolio1.cs",
+              "RelativeToolTip": "Forms\\Portfolio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:15:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:15:08.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:14:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\CoolPalsPortfolioLoginTry\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

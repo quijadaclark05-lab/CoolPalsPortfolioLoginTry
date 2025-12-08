@@ -7,3 +7,9 @@ C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.pdb
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe.config
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.EducationForm.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.MessageForm.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Portfolio1.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.WelcomeForm.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\QuijadaSchools.png
