@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Clark\\source\\repos\\CoolPalsPortfolioLoginTry\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\clark\\source\\repos\\coolpalsportfoliologintry\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,12 +17,19 @@
           "SelectedChildIndex": 0,
           "Children": [
             {
+<<<<<<< HEAD
+=======
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+>>>>>>> 0e438e32578d5553dba30c75a6c5820fa4ba3d7f
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Clark\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs [Design]",
               "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T16:46:49.893Z",
