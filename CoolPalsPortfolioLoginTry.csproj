@@ -62,6 +62,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\Calderon\EducationCalderon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Calderon\EducationCalderon.Designer.cs">
+      <DependentUpon>EducationCalderon.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Clark\EducationQuijada.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -142,6 +148,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Calderon\EducationCalderon.resx">
+      <DependentUpon>EducationCalderon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Clark\EducationQuijada.resx">
       <DependentUpon>EducationQuijada.cs</DependentUpon>
     </EmbeddedResource>
@@ -197,7 +206,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Database\" />
-    <Folder Include="Forms\Adrian\" />
     <Folder Include="Helpers\" />
     <Folder Include="Models\" />
   </ItemGroup>
@@ -231,6 +239,7 @@
     <Content Include="Assets\Untitled_design__4_-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__5_-removebg-preview.png" />
     <Content Include="CoolPalsDB.sql" />
+    <None Include="Resources\SchoolPicCalderon.png" />
     <None Include="Resources\V_Logomark_Black.png" />
     <None Include="Resources\Beta Key Art_VALORANT.jpg" />
     <None Include="Resources\Rectangle 13.png" />

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs [Design]",
-              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "SkillsClark.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs",
+              "RelativeDocumentMoniker": "Forms\\Clark\\SkillsClark.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs",
+              "RelativeToolTip": "Forms\\Clark\\SkillsClark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:17:54.051Z",
+              "WhenOpened": "2025-12-09T20:32:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationQuijada.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs",
+              "RelativeDocumentMoniker": "Forms\\Clark\\EducationQuijada.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs",
+              "RelativeToolTip": "Forms\\Clark\\EducationQuijada.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIA3wFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:32:22.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EducationQuijada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs",
+              "RelativeDocumentMoniker": "Forms\\Clark\\EducationQuijada.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs [Design]",
+              "RelativeToolTip": "Forms\\Clark\\EducationQuijada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:31:39.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillsClark.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs",
+              "RelativeDocumentMoniker": "Forms\\Clark\\SkillsClark.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs [Design]",
+              "RelativeToolTip": "Forms\\Clark\\SkillsClark.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:31:09.428Z",
               "EditorCaption": " [Design]"
             }
           ]

@@ -70,3 +70,4 @@ C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfoli
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.pdb
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Calderon.EducationCalderon.resources

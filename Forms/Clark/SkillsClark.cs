@@ -16,5 +16,20 @@ namespace CoolPalsPortfolioLoginTry.Forms.Clark
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void StudentNamePort_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Next_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
