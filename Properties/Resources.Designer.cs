@@ -103,6 +103,16 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap RalphSchoolPic {
+            get {
+                object obj = ResourceManager.GetObject("RalphSchoolPic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Rectangle_13 {
             get {
                 object obj = ResourceManager.GetObject("Rectangle 13", resourceCulture);
