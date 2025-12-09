@@ -16,5 +16,50 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jerome
         {
             InitializeComponent();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void StudentNamePort_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SHSLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void JHSLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ElementaryLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CollegeLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SCHOOLPICJEROM_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EducationJerome_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

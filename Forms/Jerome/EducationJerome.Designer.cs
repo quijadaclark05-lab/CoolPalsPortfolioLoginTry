@@ -28,12 +28,142 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.CollegeLabel = new System.Windows.Forms.Label();
+            this.SHSLabel = new System.Windows.Forms.Label();
+            this.JHSLabel = new System.Windows.Forms.Label();
+            this.ElementaryLabel = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.StudentNamePort = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.SCHOOLPICJEROM = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.SCHOOLPICJEROM)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // CollegeLabel
+            // 
+            this.CollegeLabel.AutoSize = true;
+            this.CollegeLabel.Font = new System.Drawing.Font("Segoe UI Emoji", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CollegeLabel.Location = new System.Drawing.Point(23, 589);
+            this.CollegeLabel.Name = "CollegeLabel";
+            this.CollegeLabel.Size = new System.Drawing.Size(73, 21);
+            this.CollegeLabel.TabIndex = 31;
+            this.CollegeLabel.Text = "College:";
+            this.CollegeLabel.Click += new System.EventHandler(this.CollegeLabel_Click);
+            // 
+            // SHSLabel
+            // 
+            this.SHSLabel.AutoSize = true;
+            this.SHSLabel.Font = new System.Drawing.Font("Segoe UI Emoji", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SHSLabel.Location = new System.Drawing.Point(23, 548);
+            this.SHSLabel.Name = "SHSLabel";
+            this.SHSLabel.Size = new System.Drawing.Size(46, 21);
+            this.SHSLabel.TabIndex = 30;
+            this.SHSLabel.Text = "SHS:";
+            this.SHSLabel.Click += new System.EventHandler(this.SHSLabel_Click);
+            // 
+            // JHSLabel
+            // 
+            this.JHSLabel.AutoSize = true;
+            this.JHSLabel.Font = new System.Drawing.Font("Segoe UI Emoji", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.JHSLabel.Location = new System.Drawing.Point(23, 512);
+            this.JHSLabel.Name = "JHSLabel";
+            this.JHSLabel.Size = new System.Drawing.Size(43, 21);
+            this.JHSLabel.TabIndex = 29;
+            this.JHSLabel.Text = "JHS:";
+            this.JHSLabel.Click += new System.EventHandler(this.JHSLabel_Click);
+            // 
+            // ElementaryLabel
+            // 
+            this.ElementaryLabel.AutoSize = true;
+            this.ElementaryLabel.Font = new System.Drawing.Font("Segoe UI Emoji", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ElementaryLabel.Location = new System.Drawing.Point(23, 471);
+            this.ElementaryLabel.Name = "ElementaryLabel";
+            this.ElementaryLabel.Size = new System.Drawing.Size(102, 21);
+            this.ElementaryLabel.TabIndex = 28;
+            this.ElementaryLabel.Text = "Elementary:";
+            this.ElementaryLabel.Click += new System.EventHandler(this.ElementaryLabel_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Verdana", 45F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.label1.Location = new System.Drawing.Point(11, 386);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(394, 73);
+            this.label1.TabIndex = 26;
+            this.label1.Text = "EDUCATION";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // StudentNamePort
+            // 
+            this.StudentNamePort.AutoSize = true;
+            this.StudentNamePort.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.StudentNamePort.Font = new System.Drawing.Font("Dubai", 36.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.StudentNamePort.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.StudentNamePort.Location = new System.Drawing.Point(13, 8);
+            this.StudentNamePort.Name = "StudentNamePort";
+            this.StudentNamePort.Size = new System.Drawing.Size(525, 82);
+            this.StudentNamePort.TabIndex = 27;
+            this.StudentNamePort.Text = "JEROME SALUNDAGIT";
+            this.StudentNamePort.Click += new System.EventHandler(this.StudentNamePort_Click);
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::CoolPalsPortfolioLoginTry.Properties.Resources.EDUCATION;
+            this.pictureBox2.Location = new System.Drawing.Point(11, 215);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(564, 204);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 32;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
+            // 
+            // SCHOOLPICJEROM
+            // 
+            this.SCHOOLPICJEROM.Image = global::CoolPalsPortfolioLoginTry.Properties.Resources.SchoolPicJerom;
+            this.SCHOOLPICJEROM.Location = new System.Drawing.Point(476, -94);
+            this.SCHOOLPICJEROM.Name = "SCHOOLPICJEROM";
+            this.SCHOOLPICJEROM.Size = new System.Drawing.Size(1169, 892);
+            this.SCHOOLPICJEROM.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.SCHOOLPICJEROM.TabIndex = 33;
+            this.SCHOOLPICJEROM.TabStop = false;
+            this.SCHOOLPICJEROM.Click += new System.EventHandler(this.SCHOOLPICJEROM_Click);
+            // 
+            // EducationJerome
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.CollegeLabel);
+            this.Controls.Add(this.SHSLabel);
+            this.Controls.Add(this.JHSLabel);
+            this.Controls.Add(this.ElementaryLabel);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.StudentNamePort);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.SCHOOLPICJEROM);
+            this.Name = "EducationJerome";
             this.Text = "EducationJerome";
+            this.Load += new System.EventHandler(this.EducationJerome_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.SCHOOLPICJEROM)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label CollegeLabel;
+        private System.Windows.Forms.Label SHSLabel;
+        private System.Windows.Forms.Label JHSLabel;
+        private System.Windows.Forms.Label ElementaryLabel;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label StudentNamePort;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox SCHOOLPICJEROM;
     }
 }

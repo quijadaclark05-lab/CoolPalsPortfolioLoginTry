@@ -51,5 +51,10 @@ namespace CoolPalsPortfolioLoginTry.Forms.Ralph
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
