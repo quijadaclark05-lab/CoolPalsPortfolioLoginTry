@@ -32,6 +32,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.labelElementary = new System.Windows.Forms.Label();
+            this.labelJuniorHigh = new System.Windows.Forms.Label();
+            this.labelSeniorHigh = new System.Windows.Forms.Label();
+            this.labelCollege = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -85,11 +89,58 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // labelElementary
+            // 
+            this.labelElementary.AutoSize = true;
+            this.labelElementary.Font = new System.Drawing.Font("Segoe UI Emoji", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelElementary.Location = new System.Drawing.Point(91, 460);
+            this.labelElementary.Name = "labelElementary";
+            this.labelElementary.Size = new System.Drawing.Size(78, 32);
+            this.labelElementary.TabIndex = 4;
+            this.labelElementary.Text = "label3";
+            this.labelElementary.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // labelJuniorHigh
+            // 
+            this.labelJuniorHigh.AutoSize = true;
+            this.labelJuniorHigh.Font = new System.Drawing.Font("Segoe UI Emoji", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelJuniorHigh.Location = new System.Drawing.Point(91, 504);
+            this.labelJuniorHigh.Name = "labelJuniorHigh";
+            this.labelJuniorHigh.Size = new System.Drawing.Size(78, 32);
+            this.labelJuniorHigh.TabIndex = 5;
+            this.labelJuniorHigh.Text = "label4";
+            this.labelJuniorHigh.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // labelSeniorHigh
+            // 
+            this.labelSeniorHigh.AutoSize = true;
+            this.labelSeniorHigh.Font = new System.Drawing.Font("Segoe UI Emoji", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelSeniorHigh.Location = new System.Drawing.Point(91, 546);
+            this.labelSeniorHigh.Name = "labelSeniorHigh";
+            this.labelSeniorHigh.Size = new System.Drawing.Size(78, 32);
+            this.labelSeniorHigh.TabIndex = 6;
+            this.labelSeniorHigh.Text = "label5";
+            this.labelSeniorHigh.Click += new System.EventHandler(this.label5_Click);
+            // 
+            // labelCollege
+            // 
+            this.labelCollege.AutoSize = true;
+            this.labelCollege.Font = new System.Drawing.Font("Segoe UI Emoji", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelCollege.Location = new System.Drawing.Point(91, 597);
+            this.labelCollege.Name = "labelCollege";
+            this.labelCollege.Size = new System.Drawing.Size(78, 32);
+            this.labelCollege.TabIndex = 7;
+            this.labelCollege.Text = "label6";
+            // 
             // EducationForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.labelCollege);
+            this.Controls.Add(this.labelSeniorHigh);
+            this.Controls.Add(this.labelJuniorHigh);
+            this.Controls.Add(this.labelElementary);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.label2);
@@ -109,5 +160,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label labelElementary;
+        private System.Windows.Forms.Label labelJuniorHigh;
+        private System.Windows.Forms.Label labelSeniorHigh;
+        private System.Windows.Forms.Label labelCollege;
     }
 }

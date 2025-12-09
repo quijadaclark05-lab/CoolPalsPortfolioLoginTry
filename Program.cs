@@ -18,7 +18,7 @@ namespace CoolPalsPortfolioLoginTry
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new EducationForm());
+            Application.Run(new WelcomeForm());
         }
     }
 }

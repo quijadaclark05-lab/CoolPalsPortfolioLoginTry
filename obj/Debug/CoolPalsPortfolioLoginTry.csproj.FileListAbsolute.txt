@@ -13,3 +13,4 @@ C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Portfolio1.resources
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.WelcomeForm.resources
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\QuijadaSchools.png
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.LoginForm.resources

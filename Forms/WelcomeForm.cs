@@ -28,5 +28,39 @@ namespace CoolPalsPortfolioLoginTry.Forms
         {
 
         }
+
+        private void btnTestConnection_Click(object sender, EventArgs e)
+        {
+            string connStr = ConfigurationManager.ConnectionStrings["CoolPalsPortfolioLoginTry.Properties.Settings.CoolPalsPortfolioConnectionString"].ConnectionString;
+
+            using (SqlConnection conn = new SqlConnection(connStr))
+            {
+                try
+                {
+                    conn.Open();
+                    SqlCommand cmd = new SqlCommand("SELECT COUNT(*) FROM Users", conn);
+                    int userCount = (int)cmd.ExecuteScalar();
+                    MessageBox.Show($"✅ Connected! Users in DB: {userCount}");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"❌ Connection failed:\n{ex.Message}");
+                }
+            }
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+            this.Hide();
+        }
+
+        private void btnSignUp_Click(object sender, EventArgs e)
+        {
+            SignupForm signUpForm = new SignupForm();
+            signUpForm.Show();
+            this.Hide(); // optional: hides WelcomeForm
+        }
     }
 }
