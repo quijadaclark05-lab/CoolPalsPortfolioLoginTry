@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\skillsralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\skillsralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\educationralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\educationralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\educationquijada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\skillsralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\skillsralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\clark\\skillsclark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\hobbiesralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\hobbiesralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\messageralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\messageralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\messageralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\messageralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\hobbiesralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\hobbiesralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\ralph\\educationralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\ralph\\educationralph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\jared\\educationchua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\jared\\educationchua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,57 +49,115 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SkillsClark.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs",
-              "RelativeDocumentMoniker": "Forms\\Clark\\SkillsClark.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs",
-              "RelativeToolTip": "Forms\\Clark\\SkillsClark.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "mESSAGErALPH.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\mESSAGErALPH.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\mESSAGErALPH.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\mESSAGErALPH.cs",
+              "RelativeToolTip": "Forms\\Ralph\\mESSAGErALPH.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywDEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T20:32:40.016Z",
+              "WhenOpened": "2025-12-09T22:40:16.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EducationQuijada.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs",
-              "RelativeDocumentMoniker": "Forms\\Clark\\EducationQuijada.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs",
-              "RelativeToolTip": "Forms\\Clark\\EducationQuijada.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAIA3wFEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "HobbiesRalph.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\HobbiesRalph.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\HobbiesRalph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\HobbiesRalph.cs",
+              "RelativeToolTip": "Forms\\Ralph\\HobbiesRalph.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2oAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T20:32:22.142Z",
+              "WhenOpened": "2025-12-09T22:40:12.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EducationQuijada.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs",
-              "RelativeDocumentMoniker": "Forms\\Clark\\EducationQuijada.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\EducationQuijada.cs [Design]",
-              "RelativeToolTip": "Forms\\Clark\\EducationQuijada.cs [Design]",
+              "Title": "SkillsRalph.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\SkillsRalph.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\SkillsRalph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\SkillsRalph.cs",
+              "RelativeToolTip": "Forms\\Ralph\\SkillsRalph.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T20:31:39.772Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-09T22:40:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationRalph.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\EducationRalph.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\EducationRalph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\EducationRalph.cs",
+              "RelativeToolTip": "Forms\\Ralph\\EducationRalph.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswHcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:40:04.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SkillsClark.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs",
-              "RelativeDocumentMoniker": "Forms\\Clark\\SkillsClark.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Clark\\SkillsClark.cs [Design]",
-              "RelativeToolTip": "Forms\\Clark\\SkillsClark.cs [Design]",
+              "Title": "SkillsRalph.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\SkillsRalph.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\SkillsRalph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\SkillsRalph.cs [Design]",
+              "RelativeToolTip": "Forms\\Ralph\\SkillsRalph.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T20:31:09.428Z",
+              "WhenOpened": "2025-12-09T22:40:00.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mESSAGErALPH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\mESSAGErALPH.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\mESSAGErALPH.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\mESSAGErALPH.cs [Design]",
+              "RelativeToolTip": "Forms\\Ralph\\mESSAGErALPH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:39:59.712Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HobbiesRalph.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\HobbiesRalph.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\HobbiesRalph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\HobbiesRalph.cs [Design]",
+              "RelativeToolTip": "Forms\\Ralph\\HobbiesRalph.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:39:59.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EducationRalph.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\EducationRalph.cs",
+              "RelativeDocumentMoniker": "Forms\\Ralph\\EducationRalph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Ralph\\EducationRalph.cs [Design]",
+              "RelativeToolTip": "Forms\\Ralph\\EducationRalph.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:39:58.252Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EducationChua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Jared\\EducationChua.cs",
+              "RelativeDocumentMoniker": "Forms\\Jared\\EducationChua.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\Jared\\EducationChua.cs [Design]",
+              "RelativeToolTip": "Forms\\Jared\\EducationChua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T22:34:17.057Z",
               "EditorCaption": " [Design]"
             }
           ]

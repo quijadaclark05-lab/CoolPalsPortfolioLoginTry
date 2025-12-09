@@ -117,4 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ELEMSCHOOL.Text" xml:space="preserve">
+    <value>Clark likes singing and dancing a lot. In fact, even though he knows 
+he’s not exactly the most talented at it, 
+he still enjoys it for fun. His favorite singers are those who inspire 
+him to keep enjoying music no matter what.</value>
+  </data>
 </root>

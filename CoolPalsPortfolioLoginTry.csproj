@@ -68,11 +68,41 @@
     <Compile Include="Forms\Calderon\EducationCalderon.Designer.cs">
       <DependentUpon>EducationCalderon.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Calderon\HobbiesCalderon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Calderon\HobbiesCalderon.Designer.cs">
+      <DependentUpon>HobbiesCalderon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Calderon\MessageCalderon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Calderon\MessageCalderon.Designer.cs">
+      <DependentUpon>MessageCalderon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Calderon\SkillsCalderon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Calderon\SkillsCalderon.Designer.cs">
+      <DependentUpon>SkillsCalderon.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Clark\EducationQuijada.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Clark\EducationQuijada.Designer.cs">
       <DependentUpon>EducationQuijada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clark\HobbiesQuijada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clark\HobbiesQuijada.Designer.cs">
+      <DependentUpon>HobbiesQuijada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clark\MessageQuijada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clark\MessageQuijada.Designer.cs">
+      <DependentUpon>MessageQuijada.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Clark\SkillsClark.cs">
       <SubType>Form</SubType>
@@ -92,11 +122,47 @@
     <Compile Include="Forms\Jared\EducationChua.Designer.cs">
       <DependentUpon>EducationChua.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Jared\HobbiesChua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jared\HobbiesChua.Designer.cs">
+      <DependentUpon>HobbiesChua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jared\MessageChua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jared\MessageChua.Designer.cs">
+      <DependentUpon>MessageChua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jared\SkillsChua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jared\SkillsChua.Designer.cs">
+      <DependentUpon>SkillsChua.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Jerome\EducationJerome.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Jerome\EducationJerome.Designer.cs">
       <DependentUpon>EducationJerome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jerome\HobbiesJerome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jerome\HobbiesJerome.Designer.cs">
+      <DependentUpon>HobbiesJerome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jerome\MessageJerome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jerome\MessageJerome.Designer.cs">
+      <DependentUpon>MessageJerome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jerome\SkillsJerome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jerome\SkillsJerome.Designer.cs">
+      <DependentUpon>SkillsJerome.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\LoginForm.cs">
       <SubType>Form</SubType>
@@ -121,6 +187,24 @@
     </Compile>
     <Compile Include="Forms\Ralph\EducationRalph.Designer.cs">
       <DependentUpon>EducationRalph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ralph\mESSAGErALPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ralph\mESSAGErALPH.Designer.cs">
+      <DependentUpon>mESSAGErALPH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ralph\HobbiesRalph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ralph\HobbiesRalph.Designer.cs">
+      <DependentUpon>HobbiesRalph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ralph\SkillsRalph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ralph\SkillsRalph.Designer.cs">
+      <DependentUpon>SkillsRalph.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\SelectProfile.cs">
       <SubType>Form</SubType>
@@ -151,8 +235,23 @@
     <EmbeddedResource Include="Forms\Calderon\EducationCalderon.resx">
       <DependentUpon>EducationCalderon.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Calderon\HobbiesCalderon.resx">
+      <DependentUpon>HobbiesCalderon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Calderon\MessageCalderon.resx">
+      <DependentUpon>MessageCalderon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Calderon\SkillsCalderon.resx">
+      <DependentUpon>SkillsCalderon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Clark\EducationQuijada.resx">
       <DependentUpon>EducationQuijada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clark\HobbiesQuijada.resx">
+      <DependentUpon>HobbiesQuijada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clark\MessageQuijada.resx">
+      <DependentUpon>MessageQuijada.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Clark\SkillsClark.resx">
       <DependentUpon>SkillsClark.cs</DependentUpon>
@@ -160,8 +259,26 @@
     <EmbeddedResource Include="Forms\Jared\EducationChua.resx">
       <DependentUpon>EducationChua.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jared\HobbiesChua.resx">
+      <DependentUpon>HobbiesChua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jared\MessageChua.resx">
+      <DependentUpon>MessageChua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jared\SkillsChua.resx">
+      <DependentUpon>SkillsChua.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Jerome\EducationJerome.resx">
       <DependentUpon>EducationJerome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jerome\HobbiesJerome.resx">
+      <DependentUpon>HobbiesJerome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jerome\MessageJerome.resx">
+      <DependentUpon>MessageJerome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jerome\SkillsJerome.resx">
+      <DependentUpon>SkillsJerome.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -174,6 +291,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Ralph\EducationRalph.resx">
       <DependentUpon>EducationRalph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ralph\mESSAGErALPH.resx">
+      <DependentUpon>mESSAGErALPH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ralph\HobbiesRalph.resx">
+      <DependentUpon>HobbiesRalph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ralph\SkillsRalph.resx">
+      <DependentUpon>SkillsRalph.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SelectProfile.resx">
       <DependentUpon>SelectProfile.cs</DependentUpon>
@@ -226,12 +352,30 @@
     <Content Include="Assets\Educationlayouts\SchoolPicJerom.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\Hobbieslayouts\CalderonhobbiesLayout.png" />
+    <Content Include="Assets\Hobbieslayouts\ChuaHobbiesLayout.png" />
+    <Content Include="Assets\Hobbieslayouts\HOBBIES.png" />
+    <Content Include="Assets\Hobbieslayouts\HobbiesClarkLayout.png" />
+    <Content Include="Assets\Hobbieslayouts\JeromeHobbiesLayout.png" />
+    <Content Include="Assets\Hobbieslayouts\RalphHobbiesLayout.png" />
     <Content Include="Assets\image 1.png" />
     <Content Include="Assets\image 6.png" />
+    <None Include="Assets\MessageLayouts\BillQUijada.png" />
+    <None Include="Assets\MessageLayouts\MESSAGE.png" />
+    <None Include="Assets\MessageLayouts\Billcalderon.png" />
+    <None Include="Assets\MessageLayouts\BillJared.png" />
+    <None Include="Assets\MessageLayouts\BillJerome.png" />
+    <None Include="Assets\MessageLayouts\BillRalph.png" />
     <Content Include="Assets\QuijadaSchools.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Assets\Red Rectangle.png" />
+    <Content Include="Assets\SkillsLayouts\CalderonSkillsLayout.png" />
+    <Content Include="Assets\SkillsLayouts\ChuaSkillsLayout.png" />
+    <Content Include="Assets\SkillsLayouts\ClarkSkills.png" />
+    <Content Include="Assets\SkillsLayouts\JeromeSkillsLayout.png" />
+    <Content Include="Assets\SkillsLayouts\SKILLS.png" />
+    <Content Include="Assets\SkillsLayouts\SkillsRalphlayout.png" />
     <Content Include="Assets\Untitled_design-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__1_-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__2_-removebg-preview.png" />
