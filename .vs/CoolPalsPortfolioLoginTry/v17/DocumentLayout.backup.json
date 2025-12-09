@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Clark\\source\\repos\\CoolPalsPortfolioLoginTry\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\clark\\source\\repos\\coolpalsportfoliologintry\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|c:\\users\\admin\\source\\repos\\coolpalsportfoliologintry\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}|CoolPalsPortfolioLoginTry.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,23 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Clark\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Clark\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CoolPalsPortfolioLoginTry\\Forms\\LoginForm.cs [Design]",
               "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T16:46:49.893Z",
+              "WhenOpened": "2025-12-09T19:17:54.051Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
