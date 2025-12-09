@@ -269,6 +269,8 @@
     <Content Include="Assets\Untitled_design__4_-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__5_-removebg-preview.png" />
     <Content Include="CoolPalsDB.sql" />
+    <None Include="Resources\Untitled_design__1_-removebg-preview.png" />
+    <None Include="Resources\image 13 %281%29.png" />
     <None Include="Resources\download %282%291.jpg" />
     <None Include="Resources\V_Logomark_Black.png" />
     <None Include="Resources\Beta Key Art_VALORANT.jpg" />

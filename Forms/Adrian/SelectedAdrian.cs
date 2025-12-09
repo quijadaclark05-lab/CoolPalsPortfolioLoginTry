@@ -204,5 +204,10 @@ namespace CoolPalsPortfolioLoginTry.Forms.Adrian
             // Already on Adrian
             return;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

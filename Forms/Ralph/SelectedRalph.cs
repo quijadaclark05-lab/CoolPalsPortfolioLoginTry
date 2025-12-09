@@ -1,4 +1,4 @@
-using CoolPalsPortfolioLoginTry.Forms.Adrian;
+﻿using CoolPalsPortfolioLoginTry.Forms.Adrian;
 using CoolPalsPortfolioLoginTry.Forms.Clark;
 using CoolPalsPortfolioLoginTry.Forms.Jared;
 using CoolPalsPortfolioLoginTry.Forms.Jerome;
@@ -41,7 +41,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Ralph
             overlayPanel.Visible = true;
 
             btnMinimize = new Button();
-            btnMinimize.Text = "�";
+            btnMinimize.Text = "—";
             btnMinimize.ForeColor = Color.White;
             btnMinimize.FlatStyle = FlatStyle.Flat;
             btnMinimize.FlatAppearance.BorderSize = 0;
@@ -50,7 +50,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Ralph
             btnMinimize.Click += (s, e) => this.WindowState = FormWindowState.Minimized;
 
             btnMaxRestore = new Button();
-            btnMaxRestore.Text = "?";
+            btnMaxRestore.Text = "◻";
             btnMaxRestore.ForeColor = Color.White;
             btnMaxRestore.FlatStyle = FlatStyle.Flat;
             btnMaxRestore.FlatAppearance.BorderSize = 0;
@@ -201,6 +201,11 @@ namespace CoolPalsPortfolioLoginTry.Forms.Ralph
             form.TopMost = true;
             form.Show();
             this.Hide();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -103,6 +103,16 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap image_13__1_ {
+            get {
+                object obj = ResourceManager.GetObject("image 13 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap image_6 {
             get {
                 object obj = ResourceManager.GetObject("image 6", resourceCulture);
@@ -206,6 +216,16 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         internal static System.Drawing.Bitmap Untitled_design__1__removebg_preview2 {
             get {
                 object obj = ResourceManager.GetObject("Untitled_design__1_-removebg-preview2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Untitled_design__1__removebg_preview3 {
+            get {
+                object obj = ResourceManager.GetObject("Untitled_design__1_-removebg-preview3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
