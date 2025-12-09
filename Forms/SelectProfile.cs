@@ -16,5 +16,10 @@ namespace CoolPalsPortfolioLoginTry.Forms
         {
             InitializeComponent();
         }
+
+        private void SelectProfile_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

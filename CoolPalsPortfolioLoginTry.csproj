@@ -175,6 +175,9 @@
     <EmbeddedResource Include="Forms\Ralph\EducationRalph.resx">
       <DependentUpon>EducationRalph.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SelectProfile.resx">
+      <DependentUpon>SelectProfile.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\WelcomeForm.resx">
       <DependentUpon>WelcomeForm.cs</DependentUpon>
     </EmbeddedResource>
