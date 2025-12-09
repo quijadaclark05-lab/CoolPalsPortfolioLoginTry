@@ -7,6 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CoolPalsPortfolioLoginTry.Forms.Adrian;
+using CoolPalsPortfolioLoginTry.Forms.Jared;
+using CoolPalsPortfolioLoginTry.Forms.Ralph;
+using CoolPalsPortfolioLoginTry.Forms.Clark;
+using CoolPalsPortfolioLoginTry.Forms.Jerome;
 
 namespace CoolPalsPortfolioLoginTry.Forms
 {
@@ -40,27 +45,57 @@ namespace CoolPalsPortfolioLoginTry.Forms
 
         private void pictureBox5_Click(object sender, EventArgs e)
         {
-
+            // Open Jerome
+            var form = new SelectedJerome();
+            form.FormBorderStyle = FormBorderStyle.Sizable; // or another style with borders
+            form.WindowState = FormWindowState.Maximized;
+            form.TopMost = true;
+            form.Show();
+            this.Hide();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-
+            // Open Jared
+            var form = new SelectedJared();
+            form.FormBorderStyle = FormBorderStyle.Sizable; // or another style with borders
+            form.WindowState = FormWindowState.Maximized;
+            form.TopMost = true;
+            form.Show();
+            this.Hide();
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-
+            // Open Ralph
+            var form = new SelectedRalph();
+            form.FormBorderStyle = FormBorderStyle.Sizable; // or another style with borders
+            form.WindowState = FormWindowState.Maximized;
+            form.TopMost = true;
+            form.Show();
+            this.Hide();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
-
+            // Open Clark
+            var form = new SelectedClark();
+            form.FormBorderStyle = FormBorderStyle.Sizable; // or another style with borders
+            form.WindowState = FormWindowState.Maximized;
+            form.TopMost = true;
+            form.Show();
+            this.Hide();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+            // Open Adrian
+            var form = new SelectedAdrian();
+            form.FormBorderStyle = FormBorderStyle.Sizable; // or another style with borders
+            form.WindowState = FormWindowState.Maximized;
+            form.TopMost = true;
+            form.Show();
+            this.Hide();
         }
     }
 }

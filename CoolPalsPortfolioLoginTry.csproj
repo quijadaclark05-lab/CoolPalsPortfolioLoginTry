@@ -62,11 +62,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\Adrian\SelectedAdrian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Adrian\SelectedAdrian.Designer.cs">
+      <DependentUpon>SelectedAdrian.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Clark\EducationQuijada.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Clark\EducationQuijada.Designer.cs">
       <DependentUpon>EducationQuijada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clark\SelectedClark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clark\SelectedClark.Designer.cs">
+      <DependentUpon>SelectedClark.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Clark\SkillsClark.cs">
       <SubType>Form</SubType>
@@ -74,23 +86,29 @@
     <Compile Include="Forms\Clark\SkillsClark.Designer.cs">
       <DependentUpon>SkillsClark.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\HobbiesForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\HobbiesForm.Designer.cs">
-      <DependentUpon>HobbiesForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\Jared\EducationChua.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Jared\EducationChua.Designer.cs">
       <DependentUpon>EducationChua.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Jared\SelectedJared.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jared\SelectedJared.Designer.cs">
+      <DependentUpon>SelectedJared.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Jerome\EducationJerome.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Jerome\EducationJerome.Designer.cs">
       <DependentUpon>EducationJerome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jerome\SelectedJerome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jerome\SelectedJerome.Designer.cs">
+      <DependentUpon>SelectedJerome.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\LoginForm.cs">
       <SubType>Form</SubType>
@@ -115,6 +133,12 @@
     </Compile>
     <Compile Include="Forms\Ralph\EducationRalph.Designer.cs">
       <DependentUpon>EducationRalph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ralph\SelectedRalph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ralph\SelectedRalph.Designer.cs">
+      <DependentUpon>SelectedRalph.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\SelectProfile.cs">
       <SubType>Form</SubType>
@@ -142,8 +166,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Adrian\SelectedAdrian.resx">
+      <DependentUpon>SelectedAdrian.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Clark\EducationQuijada.resx">
       <DependentUpon>EducationQuijada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clark\SelectedClark.resx">
+      <DependentUpon>SelectedClark.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Clark\SkillsClark.resx">
       <DependentUpon>SkillsClark.cs</DependentUpon>
@@ -151,8 +181,14 @@
     <EmbeddedResource Include="Forms\Jared\EducationChua.resx">
       <DependentUpon>EducationChua.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jared\SelectedJared.resx">
+      <DependentUpon>SelectedJared.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Jerome\EducationJerome.resx">
       <DependentUpon>EducationJerome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jerome\SelectedJerome.resx">
+      <DependentUpon>SelectedJerome.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -165,6 +201,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Ralph\EducationRalph.resx">
       <DependentUpon>EducationRalph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ralph\SelectedRalph.resx">
+      <DependentUpon>SelectedRalph.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\SelectProfile.resx">
       <DependentUpon>SelectProfile.cs</DependentUpon>
@@ -197,7 +236,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Database\" />
-    <Folder Include="Forms\Adrian\" />
     <Folder Include="Helpers\" />
     <Folder Include="Models\" />
   </ItemGroup>
@@ -231,6 +269,7 @@
     <Content Include="Assets\Untitled_design__4_-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__5_-removebg-preview.png" />
     <Content Include="CoolPalsDB.sql" />
+    <None Include="Resources\download %282%291.jpg" />
     <None Include="Resources\V_Logomark_Black.png" />
     <None Include="Resources\Beta Key Art_VALORANT.jpg" />
     <None Include="Resources\Rectangle 13.png" />
