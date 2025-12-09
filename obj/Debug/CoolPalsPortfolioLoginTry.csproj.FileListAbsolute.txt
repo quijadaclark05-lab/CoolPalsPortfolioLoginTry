@@ -14,3 +14,8 @@ C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.WelcomeForm.resources
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\QuijadaSchools.png
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.LoginForm.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\Educationlayouts\default.png
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\Educationlayouts\QuijadaSchoolwRect.png
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\Educationlayouts\RalphSchoolPic.png
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\Educationlayouts\SchoolPicChua.png
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Assets\Educationlayouts\SchoolPicJerom.png

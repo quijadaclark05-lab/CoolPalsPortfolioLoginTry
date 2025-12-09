@@ -148,10 +148,24 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\EDUCATION.png" />
+    <Content Include="Assets\Educationlayouts\default.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Educationlayouts\QuijadaSchoolwRect.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Educationlayouts\RalphSchoolPic.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Educationlayouts\SchoolPicChua.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Educationlayouts\SchoolPicJerom.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Assets\QuijadaSchools.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Assets\QuijadaSchoolwRect.png" />
     <Content Include="Assets\Red Rectangle.png" />
     <Content Include="CoolPalsDB.sql" />
     <None Include="Resources\Rectangle 13.png" />

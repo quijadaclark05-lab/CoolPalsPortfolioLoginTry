@@ -26,6 +26,7 @@ namespace CoolPalsPortfolioLoginTry.Forms
 
         private void EducationForm_Load(object sender, EventArgs e)
         {
+
             string connStr = ConfigurationManager.ConnectionStrings["CoolPalsPortfolioLoginTry.Properties.Settings.CoolPalsPortfolioConnectionString"].ConnectionString;
 
             using (SqlConnection conn = new SqlConnection(connStr))
@@ -51,6 +52,30 @@ namespace CoolPalsPortfolioLoginTry.Forms
                 }
 
                 reader.Close();
+
+                string layoutPath = Path.Combine(Application.StartupPath, "Assets", "EducationLayouts", $"{currentUsername}.png");
+
+                if (File.Exists(layoutPath))
+                {
+                    SchoolPic.Image = Image.FromFile(layoutPath);
+                }
+                else
+                {
+                    SchoolPic.Image = Image.FromFile(Path.Combine(Application.StartupPath, "Assets", "EducationLayouts", "default.png"));
+                }
+
+            }
+        }
+
+        private string GetLayoutFilename(string username)
+        {
+            switch (username.ToLower())
+            {
+                case "clark": return "QuijadaSchoolwRect.png";
+                case "ralph": return "RalphSchoolPic.png";
+                case "jared": return "SchoolPicChua.png";
+                case "jerome": return "SchoolPicJerom.png";
+                default: return "default.png";
             }
         }
 
@@ -90,6 +115,31 @@ namespace CoolPalsPortfolioLoginTry.Forms
         }
 
         private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ElementaryLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void JHSLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SHSLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CollegeLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SchoolPic_Click(object sender, EventArgs e)
         {
 
         }
