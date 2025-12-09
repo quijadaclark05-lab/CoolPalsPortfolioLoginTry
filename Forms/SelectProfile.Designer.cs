@@ -46,7 +46,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImage = global::CoolPalsPortfolioLoginTry.Properties.Resources.Untitled_design_removebg_preview;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox1.Location = new System.Drawing.Point(370, 531);
+            this.pictureBox1.Location = new System.Drawing.Point(761, 831);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 93);
             this.pictureBox1.TabIndex = 0;
@@ -58,7 +58,7 @@
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.BackgroundImage = global::CoolPalsPortfolioLoginTry.Properties.Resources.image_1;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox2.Location = new System.Drawing.Point(476, 531);
+            this.pictureBox2.Location = new System.Drawing.Point(867, 831);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(100, 93);
             this.pictureBox2.TabIndex = 1;
@@ -70,7 +70,7 @@
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox3.BackgroundImage = global::CoolPalsPortfolioLoginTry.Properties.Resources.Untitled_design__1__removebg_preview2;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox3.Location = new System.Drawing.Point(582, 531);
+            this.pictureBox3.Location = new System.Drawing.Point(973, 831);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(100, 93);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -83,7 +83,7 @@
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox4.BackgroundImage = global::CoolPalsPortfolioLoginTry.Properties.Resources.Untitled_design__5__removebg_preview;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox4.Location = new System.Drawing.Point(688, 531);
+            this.pictureBox4.Location = new System.Drawing.Point(1079, 831);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(100, 93);
             this.pictureBox4.TabIndex = 3;
@@ -95,7 +95,7 @@
             this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox5.BackgroundImage = global::CoolPalsPortfolioLoginTry.Properties.Resources.Untitled_design__4__removebg_preview;
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox5.Location = new System.Drawing.Point(794, 531);
+            this.pictureBox5.Location = new System.Drawing.Point(1185, 831);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(100, 93);
             this.pictureBox5.TabIndex = 4;
@@ -108,7 +108,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1280, 657);
+            this.ClientSize = new System.Drawing.Size(1902, 977);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
