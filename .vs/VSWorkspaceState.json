@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Forms",
+    "\\Forms\\Clark"
   ],
-  "SelectedNode": "\\C:\\Users\\Admin\\Source\\Repos\\CoolPalsPortfolioLoginTry",
+  "SelectedNode": "\\Forms\\Clark\\EducationQuijada.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
