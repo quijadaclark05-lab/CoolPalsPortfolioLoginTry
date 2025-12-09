@@ -1,7 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< HEAD
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36717.8
+=======
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+>>>>>>> 7d70e2a (this guy)
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolPalsPortfolioLoginTry", "CoolPalsPortfolioLoginTry.csproj", "{E31BA7C3-BED2-4FCA-B33B-8D28D568A932}"
 EndProject
