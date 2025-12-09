@@ -1,1 +1,14 @@
 .vs/
+# Ignore build outputs
+bin/
+obj/
+*.FileListAbsolute.txt
+*.cache
+# Build outputs
+bin/
+obj/
+.vs/
+*.pdb
+*.exe
+*.cache
+*.dll
