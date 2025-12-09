@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Forms",
+    "\\Forms\\Clark"
   ],
-  "SelectedNode": "\\CoolPalsDB.sql",
+  "SelectedNode": "\\Forms\\Clark\\EducationQuijada.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
