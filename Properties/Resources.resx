@@ -130,13 +130,13 @@
   <data name="SchoolPicJerom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Educationlayouts\SchoolPicJerom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Untitled_design__4_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__4_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="QuijadaSchools" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\QuijadaSchools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Untitled_design__1_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Untitled_design__1_-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Untitled_design-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -151,6 +151,9 @@
   <data name="QuijadaSchools1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\QuijadaSchools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="QuijadaSchoolwRect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\QuijadaSchoolwRect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Untitled_design__5_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design__5_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -160,10 +163,13 @@
   <data name="EDUCATION" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\EDUCATION.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="QuijadaSchoolwRect" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Educationlayouts\QuijadaSchoolwRect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Untitled_design__1_-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Untitled_design__4_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Untitled_design__4_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Beta Key Art_VALORANT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beta Key Art_VALORANT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="V_Logomark_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\V_Logomark_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
