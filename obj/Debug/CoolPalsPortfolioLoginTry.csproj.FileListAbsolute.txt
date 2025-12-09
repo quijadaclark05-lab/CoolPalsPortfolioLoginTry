@@ -70,3 +70,15 @@ C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfoli
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.pdb
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.AssemblyReference.cache
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.EducationQuijada.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.SkillsClark.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jared.EducationChua.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jerome.EducationJerome.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.LoginForm.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.MessageForm.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Portfolio1.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Ralph.EducationRalph.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.SelectProfile.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.WelcomeForm.resources
+C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Properties.Resources.resources

@@ -231,6 +231,10 @@
     <Content Include="Assets\Untitled_design__4_-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__5_-removebg-preview.png" />
     <Content Include="CoolPalsDB.sql" />
+    <None Include="Resources\Beta Key Art_VALORANT1.jpg" />
+    <None Include="Resources\V_Lockup_Vertical_White.png" />
+    <None Include="Resources\Vertical_jett.jpg" />
+    <None Include="Resources\VALORANT_phx_jett_brand.jpg" />
     <None Include="Resources\V_Logomark_Black.png" />
     <None Include="Resources\Beta Key Art_VALORANT.jpg" />
     <None Include="Resources\Rectangle 13.png" />
