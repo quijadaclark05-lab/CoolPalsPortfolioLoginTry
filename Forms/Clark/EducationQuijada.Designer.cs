@@ -123,6 +123,7 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.Image = global::CoolPalsPortfolioLoginTry.Properties.Resources.EDUCATION;
             this.pictureBox2.Location = new System.Drawing.Point(12, 219);
             this.pictureBox2.Name = "pictureBox2";

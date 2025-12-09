@@ -14,7 +14,9 @@ namespace CoolPalsPortfolioLoginTry.Forms
     public partial class LoginForm : Form
     {
         string connectionString =
-            "Data Source=DESKTOP-B3TQUMQ;Initial Catalog=CoolPalsDB;Integrated Security=True";
+     System.Configuration.ConfigurationManager
+     .ConnectionStrings["CoolPalsPortfolioLoginTry.Properties.Settings.CoolPalsPortfolioConnectionString"]
+     .ConnectionString;
 
         public LoginForm()
         {

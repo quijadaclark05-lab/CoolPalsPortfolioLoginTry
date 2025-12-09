@@ -24,3 +24,5 @@ C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jared.EducationChua.resources
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jerome.EducationJerome.resources
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Ralph.EducationRalph.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Database\CoolPalsDB.mdf
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\Database\CoolPalsDB_log.ldf
