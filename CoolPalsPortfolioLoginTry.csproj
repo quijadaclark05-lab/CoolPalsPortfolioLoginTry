@@ -223,10 +223,15 @@
     <Content Include="Assets\Educationlayouts\SchoolPicJerom.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\image 6.png" />
     <Content Include="Assets\QuijadaSchools.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Assets\Red Rectangle.png" />
+    <Content Include="Assets\Untitled_design__2_-removebg-preview.png" />
+    <Content Include="Assets\Untitled_design__3_-removebg-preview.png" />
+    <Content Include="Assets\Untitled_design__4_-removebg-preview.png" />
+    <Content Include="Assets\Untitled_design__5_-removebg-preview.png" />
     <Content Include="CoolPalsDB.sql" />
     <Content Include="Database\CoolPalsDB.mdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
