@@ -73,105 +73,9 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-<<<<<<< HEAD
-        internal static System.Drawing.Bitmap Billcalderon {
-            get {
-                object obj = ResourceManager.GetObject("Billcalderon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap BillJared {
-            get {
-                object obj = ResourceManager.GetObject("BillJared", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap BillJerome {
-            get {
-                object obj = ResourceManager.GetObject("BillJerome", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap BillQUijada {
-            get {
-                object obj = ResourceManager.GetObject("BillQUijada", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap BillRalph {
-            get {
-                object obj = ResourceManager.GetObject("BillRalph", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap CalderonhobbiesLayout {
-            get {
-                object obj = ResourceManager.GetObject("CalderonhobbiesLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap CalderonSkillsLayout {
-            get {
-                object obj = ResourceManager.GetObject("CalderonSkillsLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ChuaHobbiesLayout {
-            get {
-                object obj = ResourceManager.GetObject("ChuaHobbiesLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ChuaSkillsLayout {
-            get {
-                object obj = ResourceManager.GetObject("ChuaSkillsLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ClarkSkills {
-            get {
-                object obj = ResourceManager.GetObject("ClarkSkills", resourceCulture);
-=======
         internal static System.Drawing.Bitmap Beta_Key_Art_VALORANT1 {
             get {
                 object obj = ResourceManager.GetObject("Beta Key Art_VALORANT1", resourceCulture);
->>>>>>> f3703b5d10d4098a95ad016ce89c2cf7062f5e2a
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -182,26 +86,6 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         internal static System.Drawing.Bitmap EDUCATION {
             get {
                 object obj = ResourceManager.GetObject("EDUCATION", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap HOBBIES {
-            get {
-                object obj = ResourceManager.GetObject("HOBBIES", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap HobbiesClarkLayout {
-            get {
-                object obj = ResourceManager.GetObject("HobbiesClarkLayout", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -222,36 +106,6 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         internal static System.Drawing.Bitmap image_6 {
             get {
                 object obj = ResourceManager.GetObject("image 6", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap JeromeHobbiesLayout {
-            get {
-                object obj = ResourceManager.GetObject("JeromeHobbiesLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap JeromeSkillsLayout {
-            get {
-                object obj = ResourceManager.GetObject("JeromeSkillsLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap MESSAGE {
-            get {
-                object obj = ResourceManager.GetObject("MESSAGE", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -289,16 +143,6 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap RalphHobbiesLayout {
-            get {
-                object obj = ResourceManager.GetObject("RalphHobbiesLayout", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap RalphSchoolPic {
             get {
                 object obj = ResourceManager.GetObject("RalphSchoolPic", resourceCulture);
@@ -319,16 +163,6 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SchoolPicCalderon {
-            get {
-                object obj = ResourceManager.GetObject("SchoolPicCalderon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap SchoolPicChua {
             get {
                 object obj = ResourceManager.GetObject("SchoolPicChua", resourceCulture);
@@ -342,26 +176,6 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         internal static System.Drawing.Bitmap SchoolPicJerom {
             get {
                 object obj = ResourceManager.GetObject("SchoolPicJerom", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap SKILLS {
-            get {
-                object obj = ResourceManager.GetObject("SKILLS", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap SkillsRalphlayout {
-            get {
-                object obj = ResourceManager.GetObject("SkillsRalphlayout", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
