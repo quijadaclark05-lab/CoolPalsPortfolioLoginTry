@@ -263,9 +263,29 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap VALORANT_Logo_V {
+            get {
+                object obj = ResourceManager.GetObject("VALORANT_Logo_V", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap VALORANT_phx_jett_brand {
             get {
                 object obj = ResourceManager.GetObject("VALORANT_phx_jett_brand", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VALORANT_phx_jett_brand1 {
+            get {
+                object obj = ResourceManager.GetObject("VALORANT_phx_jett_brand1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

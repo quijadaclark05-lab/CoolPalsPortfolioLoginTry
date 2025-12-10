@@ -169,6 +169,9 @@
     <EmbeddedResource Include="Forms\SelectProfile.resx">
       <DependentUpon>SelectProfile.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SignupForm.resx">
+      <DependentUpon>SignupForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\WelcomeForm.resx">
       <DependentUpon>WelcomeForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -231,6 +234,8 @@
     <Content Include="Assets\Untitled_design__4_-removebg-preview.png" />
     <Content Include="Assets\Untitled_design__5_-removebg-preview.png" />
     <Content Include="CoolPalsDB.sql" />
+    <None Include="Resources\VALORANT_Logo_V.jpg" />
+    <None Include="Resources\VALORANT_phx_jett_brand1.jpg" />
     <None Include="Resources\Beta Key Art_VALORANT1.jpg" />
     <None Include="Resources\V_Lockup_Vertical_White.png" />
     <None Include="Resources\Vertical_jett.jpg" />

@@ -151,6 +151,9 @@
   <data name="Untitled_design-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Beta Key Art_VALORANT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beta Key Art_VALORANT1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Vertical_jett" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Vertical_jett.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -175,13 +178,16 @@
   <data name="image 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\image 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="VALORANT_phx_jett_brand1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VALORANT_phx_jett_brand1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="EDUCATION" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\EDUCATION.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Untitled_design__1_-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Beta Key Art_VALORANT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Beta Key Art_VALORANT1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="VALORANT_Logo_V" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VALORANT_Logo_V.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
