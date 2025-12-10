@@ -133,18 +133,39 @@
   <data name="Untitled_design__1_-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="V_Logomark_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\V_Logomark_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="V_Lockup_Vertical_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\V_Lockup_Vertical_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VALORANT_phx_jett_brand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VALORANT_phx_jett_brand.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Untitled_design-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="SkillsRalphlayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\SkillsLayouts\SkillsRalphlayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CalderonSkillsLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\SkillsLayouts\CalderonSkillsLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="Vertical_jett" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vertical_jett.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\image 6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beta Key Art_VALORANT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beta Key Art_VALORANT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> f3703b5d10d4098a95ad016ce89c2cf7062f5e2a
   </data>
   <data name="QuijadaSchools1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\QuijadaSchools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="SchoolPicChua" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Educationlayouts\SchoolPicChua.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -228,5 +249,27 @@
   </data>
   <data name="BillRalph" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\MessageLayouts\BillRalph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="QuijadaSchoolwRect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\QuijadaSchoolwRect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__5_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__5_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RalphSchoolPic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\RalphSchoolPic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\image 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EDUCATION" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\EDUCATION.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__1_-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Beta Key Art_VALORANT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beta Key Art_VALORANT1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> f3703b5d10d4098a95ad016ce89c2cf7062f5e2a
   </data>
 </root>
