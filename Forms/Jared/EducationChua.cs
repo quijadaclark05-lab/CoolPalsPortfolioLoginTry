@@ -127,12 +127,9 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jared
 
         }
 
-        // Safe change: navigate to SkillsChua and hide this form
         private void Next_Click(object sender, EventArgs e)
         {
-            var skillsForm = new SkillsChua();
-            skillsForm.Show();
-            this.Hide();
+
         }
     }
 }

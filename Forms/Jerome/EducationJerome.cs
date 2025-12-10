@@ -117,12 +117,9 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jerome
 
         }
 
-        // Next -> go to SkillsJerome (safe, non-destructive)
         private void Next_Click(object sender, EventArgs e)
         {
-            var skillsForm = new SkillsJerome();
-            skillsForm.Show();
-            this.Hide();
+
         }
     }
 }

@@ -97,12 +97,9 @@ namespace CoolPalsPortfolioLoginTry.Forms.Calderon
 
         }
 
-        // Minimal, safe change: navigate to SkillsCalderon and hide this form.
         private void Next_Click(object sender, EventArgs e)
         {
-            var skillsForm = new SkillsCalderon();
-            skillsForm.Show();
-            this.Hide();
+
         }
     }
 }
