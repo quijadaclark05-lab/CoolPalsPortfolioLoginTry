@@ -16,6 +16,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Clark
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void label1_Click(object sender, EventArgs e)
         {
@@ -31,5 +32,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Clark
         {
 
         }
+=======
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
     }
 }

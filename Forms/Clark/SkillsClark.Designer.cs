@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.Next = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.StudentNamePort = new System.Windows.Forms.Label();
@@ -70,25 +71,35 @@
             this.StudentNamePort.Text = "CLARK QUIJADA";
             this.StudentNamePort.Click += new System.EventHandler(this.StudentNamePort_Click);
             // 
+=======
+            this.SuspendLayout();
+            // 
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
             // SkillsClark
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(1904, 1041);
             this.Controls.Add(this.Next);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.StudentNamePort);
+=======
+            this.ClientSize = new System.Drawing.Size(1264, 681);
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
             this.Name = "SkillsClark";
             this.Text = "SkillsClark";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
+<<<<<<< HEAD
 
         private System.Windows.Forms.Button Next;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label StudentNamePort;
+=======
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
     }
 }

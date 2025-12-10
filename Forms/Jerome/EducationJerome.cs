@@ -61,6 +61,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jerome
         {
 
         }
+<<<<<<< HEAD
 
         private void StudentNamePort_Click_1(object sender, EventArgs e)
         {
@@ -121,5 +122,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jerome
         {
 
         }
+=======
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
     }
 }

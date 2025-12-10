@@ -56,6 +56,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jared
         {
 
         }
+<<<<<<< HEAD
 
         private void JHSLabel_Click_1(object sender, EventArgs e)
         {
@@ -131,5 +132,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Jared
         {
 
         }
+=======
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
     }
 }

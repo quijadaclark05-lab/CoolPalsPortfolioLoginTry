@@ -56,6 +56,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Ralph
         {
 
         }
+<<<<<<< HEAD
 
         private void StudentNamePort_Click_1(object sender, EventArgs e)
         {
@@ -116,5 +117,7 @@ namespace CoolPalsPortfolioLoginTry.Forms.Ralph
         {
 
         }
+=======
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
     }
 }

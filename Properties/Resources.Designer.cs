@@ -75,6 +75,7 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// </summary>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap Billcalderon {
             get {
                 object obj = ResourceManager.GetObject("Billcalderon", resourceCulture);
@@ -169,10 +170,11 @@ namespace CoolPalsPortfolioLoginTry.Properties {
             get {
                 object obj = ResourceManager.GetObject("ClarkSkills", resourceCulture);
 =======
+=======
+>>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
         internal static System.Drawing.Bitmap Beta_Key_Art_VALORANT1 {
             get {
                 object obj = ResourceManager.GetObject("Beta Key Art_VALORANT1", resourceCulture);
->>>>>>> f3703b5d10d4098a95ad016ce89c2cf7062f5e2a
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -255,16 +257,6 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         internal static System.Drawing.Bitmap Rectangle_13 {
             get {
                 object obj = ResourceManager.GetObject("Rectangle 13", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap SchoolPicCalderon {
-            get {
-                object obj = ResourceManager.GetObject("SchoolPicCalderon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
