@@ -54,7 +54,6 @@ C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\bin\Debug\CoolPalsPortfoli
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\bin\Debug\CoolPalsPortfolioLoginTry.exe
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\bin\Debug\CoolPalsPortfolioLoginTry.pdb
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.AssemblyReference.cache
-C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe.config
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.EducationQuijada.resources
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.SkillsClark.resources
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jared.EducationChua.resources
@@ -72,6 +71,7 @@ C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfoli
 C:\Users\Admin\Source\Repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.pdb
 <<<<<<< HEAD
 C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Calderon.EducationCalderon.resources
+<<<<<<< HEAD
 =======
 C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.AssemblyReference.cache
 C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.EducationQuijada.resources
@@ -86,3 +86,20 @@ C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfoli
 C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.WelcomeForm.resources
 C:\Users\Clark\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Properties.Resources.resources
 >>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
+=======
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Calderon.HobbiesCalderon.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Calderon.MessageCalderon.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Calderon.SkillsCalderon.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.HobbiesQuijada.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Clark.MessageQuijada.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jared.HobbiesChua.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jared.MessageChua.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jared.SkillsChua.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jerome.HobbiesJerome.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jerome.MessageJerome.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Jerome.SkillsJerome.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Ralph.mESSAGErALPH.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Ralph.HobbiesRalph.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Forms.Ralph.SkillsRalph.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe.config
+>>>>>>> ac278bc (DoneDonePortfolio with next and back)

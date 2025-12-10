@@ -123,9 +123,17 @@ namespace CoolPalsPortfolioLoginTry.Forms.Clark
 
         }
 
-        private void Next_Click(object sender, EventArgs e)
+        private void pictureBox1_Click_2(object sender, EventArgs e)
         {
 
+        }
+
+        // Next -> go to SkillsClark
+        private void Next_Click(object sender, EventArgs e)
+        {
+            var skillsForm = new SkillsClark();
+            skillsForm.Show();
+            this.Hide();
         }
 
         private void EducationQuijada_Load(object sender, EventArgs e)

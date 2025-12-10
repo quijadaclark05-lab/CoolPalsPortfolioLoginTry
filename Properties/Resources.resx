@@ -118,24 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Rectangle 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Rectangle 13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Untitled_design__1_-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SchoolPicChua" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Educationlayouts\SchoolPicChua.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SchoolPicJerom" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Educationlayouts\SchoolPicJerom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Untitled_design__4_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Untitled_design__4_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="BillQUijada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\MessageLayouts\BillQUijada.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="QuijadaSchools" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\QuijadaSchools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="Untitled_design__1_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
 <<<<<<< HEAD
     <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -146,6 +135,15 @@
   <data name="Untitled_design__1_-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
 =======
 >>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
+=======
+  <data name="V_Logomark_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\V_Logomark_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RalphHobbiesLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Hobbieslayouts\RalphHobbiesLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__1_-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+>>>>>>> ac278bc (DoneDonePortfolio with next and back)
     <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="V_Logomark_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -160,6 +158,7 @@
   <data name="Untitled_design-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Untitled_design-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -218,19 +217,51 @@
   </data>
   <data name="Beta Key Art_VALORANT" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Beta Key Art_VALORANT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="SkillsRalphlayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\SkillsLayouts\SkillsRalphlayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CalderonSkillsLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\SkillsLayouts\CalderonSkillsLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> ac278bc (DoneDonePortfolio with next and back)
   </data>
   <data name="QuijadaSchools1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\QuijadaSchools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Untitled_design__5_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Untitled_design__5_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SchoolPicChua" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\SchoolPicChua.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\image 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Beta Key Art_VALORANT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Beta Key Art_VALORANT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClarkSkills" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\SkillsLayouts\ClarkSkills.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rectangle 13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rectangle 13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SchoolPicJerom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\SchoolPicJerom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CalderonhobbiesLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Hobbieslayouts\CalderonhobbiesLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChuaHobbiesLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Hobbieslayouts\ChuaHobbiesLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JeromeSkillsLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\SkillsLayouts\JeromeSkillsLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RalphSchoolPic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\RalphSchoolPic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Billcalderon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\MessageLayouts\Billcalderon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="EDUCATION" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\EDUCATION.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="QuijadaSchoolwRect" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Educationlayouts\QuijadaSchoolwRect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -272,10 +303,60 @@
 <<<<<<< HEAD
 >>>>>>> f3703b5d10d4098a95ad016ce89c2cf7062f5e2a
 =======
+=======
+>>>>>>> ac278bc (DoneDonePortfolio with next and back)
   <data name="SchoolPicCalderon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SchoolPicCalderon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
 >>>>>>> parent of ac278bc (DoneDonePortfolio with next and back)
 =======
 >>>>>>> 79422ee728b64e43455f623b89bb9913b8318f24
+  </data>
+  <data name="HOBBIES" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Hobbieslayouts\HOBBIES.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\image 6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__1_-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__1_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SKILLS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\SkillsLayouts\SKILLS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HobbiesClarkLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Hobbieslayouts\HobbiesClarkLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__5_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__5_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BillJared" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\MessageLayouts\BillJared.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_design__4_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Untitled_design__4_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BillJerome" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\MessageLayouts\BillJerome.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JeromeHobbiesLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Hobbieslayouts\JeromeHobbiesLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuijadaSchoolwRect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\Educationlayouts\QuijadaSchoolwRect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\image 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MESSAGE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\MessageLayouts\MESSAGE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChuaSkillsLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\SkillsLayouts\ChuaSkillsLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BillRalph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Assets\MessageLayouts\BillRalph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
