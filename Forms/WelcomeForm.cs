@@ -62,5 +62,10 @@ namespace CoolPalsPortfolioLoginTry.Forms
             signUpForm.Show();
             this.Hide(); // optional: hides WelcomeForm
         }
+
+        private void copyrightGroup7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

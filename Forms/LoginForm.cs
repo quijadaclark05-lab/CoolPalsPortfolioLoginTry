@@ -100,5 +100,10 @@ namespace CoolPalsPortfolioLoginTry.Forms
         {
             // Empty method removed for brevity, but keep it if you use it later
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -73,9 +73,15 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap download__2_ {
             get {
                 object obj = ResourceManager.GetObject("download (2)", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap Beta_Key_Art_VALORANT1 {
+            get {
+                object obj = ResourceManager.GetObject("Beta Key Art_VALORANT1", resourceCulture);
+>>>>>>> LoginFormUI
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +249,59 @@ namespace CoolPalsPortfolioLoginTry.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap V_Lockup_Vertical_White {
+            get {
+                object obj = ResourceManager.GetObject("V_Lockup_Vertical_White", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap V_Logomark_Black {
             get {
                 object obj = ResourceManager.GetObject("V_Logomark_Black", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VALORANT_Logo_V {
+            get {
+                object obj = ResourceManager.GetObject("VALORANT_Logo_V", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VALORANT_phx_jett_brand {
+            get {
+                object obj = ResourceManager.GetObject("VALORANT_phx_jett_brand", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VALORANT_phx_jett_brand1 {
+            get {
+                object obj = ResourceManager.GetObject("VALORANT_phx_jett_brand1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vertical_jett {
+            get {
+                object obj = ResourceManager.GetObject("Vertical_jett", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

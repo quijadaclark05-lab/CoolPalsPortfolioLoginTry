@@ -1,4 +1,5 @@
 .vs/
+<<<<<<< HEAD
 # Ignore build outputs
 bin/
 obj/
@@ -12,3 +13,9 @@ obj/
 *.exe
 *.cache
 *.dll
+=======
+bin/
+obj/
+*.db
+*.cache
+>>>>>>> LoginFormUI
